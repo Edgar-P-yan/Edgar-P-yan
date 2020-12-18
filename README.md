@@ -21,6 +21,8 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-F7B93E?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+  <img alt="GoLang" src="https://img.shields.io/badge/-GoLang-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 Check out my blog at Medium [Edgar-P-Yan.medium.com](https://edgar-p-yan.medium.com/)
