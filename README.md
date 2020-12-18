@@ -5,5 +5,5 @@
 Check out my blog at Medium [Edgar-P-Yan.medium.com](https://edgar-p-yan.medium.com/)
 
 **My latest blog-posts:**  
-- :fire: [Learn about Computer Science right at GitHub](https://edgar-p-yan.medium.com/learn-about-computer-science-right-at-github-a20f7b080d7a)  
+- :fire: [Learn Computer Science right at GitHub](https://edgar-p-yan.medium.com/learn-about-computer-science-right-at-github-a20f7b080d7a)  
 *Algorithms, Large-Scale Systems, Distributed Databases and a lot more*
