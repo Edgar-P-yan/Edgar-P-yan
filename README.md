@@ -20,6 +20,7 @@
   <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00C58E?style=flat-square&logo=nuxt-dot-js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-F7B93E?style=flat-square&logo=eslint&logoColor=white" />
+  <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
 </p>
 
 Check out my blog at Medium [Edgar-P-Yan.medium.com](https://edgar-p-yan.medium.com/)
