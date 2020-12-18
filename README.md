@@ -30,3 +30,12 @@ Check out my blog at Medium [Edgar-P-Yan.medium.com](https://edgar-p-yan.medium.
 **My latest blog-posts:**  
 - :fire: [Learn Computer Science right at GitHub](https://edgar-p-yan.medium.com/learn-about-computer-science-right-at-github-a20f7b080d7a)  
 *Algorithms, Large-Scale Systems, Distributed Databases and a lot more*
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/Edgar-P-Yan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://edgar-p-yan.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.instagram.com/edgar.p.yan/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://t.me/edgar_p_yan" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="mailto:starguitar307@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
