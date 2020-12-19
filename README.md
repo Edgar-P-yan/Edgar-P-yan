@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Edgar, Backend developer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <b>Kaliningrad, Russia</b>
+<p>Welcome to my page! </br> I'm Edgar, Backend developer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <b>Kaliningrad, Russia</b>, who also participates in open-source stuff ;)
+
 <h3>Things I deal with</h3>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
