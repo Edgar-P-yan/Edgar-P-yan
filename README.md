@@ -39,4 +39,5 @@ Check out my blog at Medium [Edgar-P-Yan.medium.com](https://edgar-p-yan.medium.
   <a href="https://www.instagram.com/edgar.p.yan/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://t.me/edgar_p_yan" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="mailto:starguitar307@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="http://tiktok.com/@edgar.p.yan"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"></a>
 </p>
