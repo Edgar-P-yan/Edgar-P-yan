@@ -25,6 +25,8 @@
   <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
   <img alt="GoLang" src="https://img.shields.io/badge/-GoLang-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Telegram" src="https://img.shields.io/badge/-Telegram%20Bots-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 </p>
 
 Check out my blog at Medium [Edgar-P-Yan.medium.com](https://edgar-p-yan.medium.com/)
@@ -37,6 +39,7 @@ Check out my blog at Medium [Edgar-P-Yan.medium.com](https://edgar-p-yan.medium.
 <p>
   <a href="https://github.com/Edgar-P-Yan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://edgar-p-yan.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/8507883/edgar-p-yan" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
   <a href="https://www.instagram.com/edgar.p.yan/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://t.me/edgar_p_yan" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="mailto:starguitar307@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
