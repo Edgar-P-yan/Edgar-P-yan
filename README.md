@@ -2,6 +2,10 @@
 
 <p>Welcome to my page! </br> I'm Edgar, Backend developer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <b>Kaliningrad, Russia</b>, who also participates in open-source stuff ;)
 
+<p>
+  😎 Right now working on a <b>very</b> cool project, <a href="https://github.com/Messembed/Messembed"><b>Messembed = Messenger + Embeddable</b></a> - a highly embeddable Chat API and SDK.
+</p>
+
 <h3>Things I deal with</h3>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
