@@ -4,7 +4,7 @@
 
 <hr>
 <p>
-  😎 Right now working on a <b>very</b> cool project, <a href="https://github.com/Messembed/Messembed"><b>Messembed = Messenger + Embeddable</b></a> - a highly embeddable Chat API and SDK.
+  😎 Right now working on a <b>very</b> cool project <a href="https://github.messembed.com">GitHub Messenger</a> built on top of the <a href="https://github.com/Messembed/Messembed"><b>Messembed = Messenger + Embeddable</b></a> - a highly embeddable Chat API and SDK.
 </p>
 <hr>
 
