@@ -1,4 +1,3 @@
-![a](https://mc.yandex.ru/watch/72857872)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Edgar, Backend developer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <b>Kaliningrad, Russia</b>, who also participates in open-source stuff ;)
