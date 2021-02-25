@@ -3,12 +3,23 @@
 <p>Welcome to my page! </br> I'm Edgar, Backend developer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <b>Kaliningrad, Russia</b>, who also participates in open-source stuff ;)
 
 <hr>
-<p>
-  😎 Right now working on a <b>very</b> cool project <a href="https://github.messembed.com?utm_source=github"><b>GitHub Messenger</b></a> built on top of the <a href="https://github.com/Messembed"><b>Messembed = Messenger + Embeddable</b></a> - a highly embeddable Chat API and SDK.
-</p>
+  <h2>Messembed - embeddable Chat API and SDK 🔥</h2>
+  <a href="https://github.com/Messembed"><img align=left src="https://github.com/Edgar-P-yan/Edgar-P-yan/blob/master/messembed-hero-2%20(2).png?raw=true"></a>
+  <p>
+    😎 Right now I'm working on a <b>very</b> cool project - <a href="https://github.com/Messembed"><b>Messembed = Messenger + Embeddable</b></a> - a highly embeddable Chat API and SDK.
+  </p>
+  <br clear="left"/>
+<hr>
+<h2>GitHub Messenger - a new way of collaboration 🔥</h2>
+  <a href="https://github.messembed.com/?utm_source=github"><img align=left src="https://github.com/Edgar-P-yan/Edgar-P-yan/blob/master/github-messenger-hero%20(1).png?raw=true"></a>
+  <p>
+    The beta version of the <a href="https://github.messembed.com?utm_source=github"><b>GitHub Messenger</b></a> <b>is out!</b> Go there and DM your teammates. 😉<br>
+  Built on top of the <a href="https://github.com/Messembed"><b>Messembed</b></a> - a highly embeddable Chat API and SDK.
+  </p>
+  <br clear="left"/>
 <hr>
 
-<h3>Things I deal with</h3>
+<h3 align=left>Things I deal with</h3>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
