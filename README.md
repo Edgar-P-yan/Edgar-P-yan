@@ -4,14 +4,14 @@
 
 <hr>
   <h2>Messembed - embeddable Chat API and SDK 🔥</h2>
-  <a href="https://github.com/Messembed"><img align=left src="https://github.com/Edgar-P-yan/Edgar-P-yan/blob/master/messembed-hero-2%20(2).png?raw=true"></a>
+  <a href="https://github.com/Messembed"><img align=left src="https://github.com/Edgar-P-yan/Edgar-P-yan/blob/main/messembed-hero-2%20(2).png?raw=true"></a>
   <p>
     😎 Right now I'm working on a <b>very</b> cool project - <a href="https://github.com/Messembed"><b>Messembed = Messenger + Embeddable</b></a> - a highly embeddable Chat API and SDK.
   </p>
   <br clear="left"/>
 <hr>
 <h2>GitHub Messenger - a new way of collaboration 🔥</h2>
-  <a href="https://github.messembed.com/?utm_source=github"><img align=left src="https://github.com/Edgar-P-yan/Edgar-P-yan/blob/master/github-messenger-hero%20(1).png?raw=true"></a>
+  <a href="https://github.messembed.com/?utm_source=github"><img align=left src="https://github.com/Edgar-P-yan/Edgar-P-yan/blob/main/github-messenger-hero%20(1).png?raw=true"></a>
   <p>
     The beta version of the <a href="https://github.messembed.com?utm_source=github"><b>GitHub Messenger</b></a> <b>is out!</b> Go there and DM your teammates. 😉<br>
   Built on top of the <a href="https://github.com/Messembed"><b>Messembed</b></a> - a highly embeddable Chat API and SDK.
