@@ -4,7 +4,7 @@
 I am a Lead Backend Developer and ethusiast in Open Source and Desktop Software Development.
 
 ### ⚡ My main stack
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/-Go-29BEB0?style=for-the-badge&logo=go&logoColor=white) ![SQL DBMS](https://img.shields.io/badge/SQL%20DBMS-00000F?style=for-the-badge&logo=postgresql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/-Go-29BEB0?style=for-the-badge&logo=go&logoColor=white) ![SQL DBMS](https://img.shields.io/badge/SQL%20DBMS-fff?style=for-the-badge&logo=postgresql) ![NoSQL](https://img.shields.io/badge/NoSQL-fff?style=for-the-badge&logo=apachecassandra)
 
 ### 🔬 Experiments
 ![Rust](https://img.shields.io/badge/Rust-F14A01?style=for-the-badge&logo=rust&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun) 
