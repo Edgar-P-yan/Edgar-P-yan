@@ -17,4 +17,4 @@ I am a Lead Backend Developer and ethusiast in Open Source and Desktop Software 
   <a href="mailto:starguitar307@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fff.svg?&style=for-the-badge&logo=gmail&logoColor=black"></a>
 
 ### Worthfuls of articles
-  <a href="https://edgar-p-yan.medium.com/partial-encryption-and-decryption-of-aes-ciphers-6d07a7a13574">🧠 Partial encryption and decryption of AES ciphers</a>
+- <a href="https://edgar-p-yan.medium.com/partial-encryption-and-decryption-of-aes-ciphers-6d07a7a13574">🧠 Partial encryption and decryption of AES ciphers</a>
