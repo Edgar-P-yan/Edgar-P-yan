@@ -16,5 +16,9 @@ I am a Lead Backend Developer and ethusiast in Open Source and Desktop Software 
   <a href="https://t.me/edgar_p_yan" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="mailto:starguitar307@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fff.svg?&style=for-the-badge&logo=gmail&logoColor=black"></a>
 
+### 📖 Books I read at the moment
+- Chris Richardson "Microservices Patterns: With examples in Java"
+- Steve McConnell "Code Complete: A Practical Handbook of Software Construction"
+
 ### Worthfuls of articles
 - <a href="https://edgar-p-yan.medium.com/partial-encryption-and-decryption-of-aes-ciphers-6d07a7a13574">🧠 Partial encryption and decryption of AES ciphers</a>
