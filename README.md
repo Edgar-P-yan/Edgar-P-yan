@@ -19,6 +19,7 @@ I am a Lead Backend Developer and ethusiast in Open Source and Desktop Software 
 ### 📖 Books I read at the moment
 - Chris Richardson "Microservices Patterns: With examples in Java"
 - Steve McConnell "Code Complete: A Practical Handbook of Software Construction"
+- Tapir Liu "Go Optimizations 101"
 
 ### Worthfuls of articles
 - <a href="https://edgar-p-yan.medium.com/partial-encryption-and-decryption-of-aes-ciphers-6d07a7a13574">🧠 Partial encryption and decryption of AES ciphers</a>
